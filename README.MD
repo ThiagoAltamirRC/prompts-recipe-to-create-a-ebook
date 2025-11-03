@@ -47,10 +47,6 @@ Midjourney：
 - Imagens utilizadas em `assets`
 - ebook gerado em `output`
 
-## 🛠️ Instruções de execução
-
-Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
 ## 👨‍💻 Expert
 
 <p>
