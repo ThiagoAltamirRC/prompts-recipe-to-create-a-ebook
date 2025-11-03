@@ -1,12 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
 -------
 
 
@@ -19,7 +10,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 
@@ -44,7 +35,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create a pixel art image about "The Python Grimoire: Secrets of the Code Masters," featuring a mysterious wizard and a Python grimoire., pixel art style --v 5.1 |
 
 ## ✨ Features
 
@@ -54,7 +45,7 @@ Midjourney：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado em `output`
 
 ## 🛠️ Instruções de execução
 
